@@ -1,0 +1,51 @@
+.field {
+	display: inline-block;
+}
+.style {
+	min-height: 50px;
+	border: 2px solid lightgreen;
+	padding: 20px;
+}
+.game {
+	width: 60%;
+}
+.menu {
+	width: 30%;
+}
+.red {
+	background-color: red;
+}
+.green {
+	background-color: green;
+}
+.yellow {
+	background-color: yellow;
+}
+.blue {
+	background-color: blue;
+}
+.purple {
+	background-color: purple;
+}
+.square {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+}
+.unseen {
+	display: none;
+}
+/*.score-square *for scores display**/
+
+button {
+	display: block;
+	border: 2px solid black;
+	margin: 5px;
+	width: 100px;
+	margin-left: 80px;
+}
+.hint {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
